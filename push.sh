@@ -10,6 +10,6 @@ if ! git ls-files --other --directory --exclude-standard | sed q1 > /dev/null ||
 fi
 
 if ! git ls-remote origin | grep $(git rev-parse HEAD); then
-  git push origin main
+  git push origin
 fi
 
