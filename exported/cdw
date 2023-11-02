@@ -4,3 +4,9 @@ remote cdw
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdw
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdw
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdw
