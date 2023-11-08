@@ -1,3 +1,6 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdef
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdef
