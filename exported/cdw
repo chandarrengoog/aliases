@@ -1,4 +1,16 @@
 #!/usr/bin/env zsh
+#!/usr/bin/env zsh
+source ~/.zshrc
+source ~/.zshrc
+remote cdw
+remote cdw
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdw
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdw
+#!/usr/bin/env zsh
 source ~/.zshrc
 remote cdw
 #!/usr/bin/env zsh
