@@ -4,6 +4,3 @@ remote cdr
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdr
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdr

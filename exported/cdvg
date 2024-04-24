@@ -1,8 +1,5 @@
 #!/usr/bin/env zsh
-#!/usr/bin/env zsh
 source ~/.zshrc
-source ~/.zshrc
-remote cdvg
 remote cdvg
 #!/usr/bin/env zsh
 source ~/.zshrc

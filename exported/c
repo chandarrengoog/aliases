@@ -4,6 +4,3 @@ remote c
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote c
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote c

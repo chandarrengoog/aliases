@@ -4,6 +4,3 @@ remote cds
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cds
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cds

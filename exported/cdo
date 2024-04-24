@@ -4,6 +4,3 @@ remote cdo
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdo
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdo

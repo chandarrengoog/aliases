@@ -4,6 +4,3 @@ remote cdsd
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdsd
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdsd

@@ -4,6 +4,3 @@ remote cdp
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdp
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdp

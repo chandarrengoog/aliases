@@ -4,6 +4,3 @@ remote cdi
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdi
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdi

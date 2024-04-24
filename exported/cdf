@@ -4,6 +4,3 @@ remote cdf
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdf
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdf
