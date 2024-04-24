@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
-#!/usr/bin/env zsh
 remote cdtp
+#!/usr/bin/env zsh
 source ~/.zshrc
 remote cdtp
 #!/usr/bin/env zsh

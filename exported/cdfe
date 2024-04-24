@@ -1,7 +1,7 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
-#!/usr/bin/env zsh
 remote cdfe
+#!/usr/bin/env zsh
 source ~/.zshrc
 remote cdfe
 #!/usr/bin/env zsh

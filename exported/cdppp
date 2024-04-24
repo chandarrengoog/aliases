@@ -1,8 +1,8 @@
 #!/usr/bin/env zsh
-source ~/.zshrc
-remote cdppp
 #!/usr/bin/env zsh
 source ~/.zshrc
+source ~/.zshrc
+remote cdppp
 remote cdppp
 #!/usr/bin/env zsh
 source ~/.zshrc

@@ -1,8 +1,8 @@
 #!/usr/bin/env zsh
-source ~/.zshrc
 #!/usr/bin/env zsh
-remote cdre
 source ~/.zshrc
+source ~/.zshrc
+remote cdre
 remote cdre
 #!/usr/bin/env zsh
 source ~/.zshrc
