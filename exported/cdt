@@ -1,3 +1,9 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdt
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdt
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdt
