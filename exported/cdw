@@ -6,7 +6,7 @@ source ~/.zshrc
 remote cdw
 #!/usr/bin/env zsh
 source ~/.zshrc
-#!/usr/bin/env zsh
 remote cdw
+#!/usr/bin/env zsh
 source ~/.zshrc
 remote cdw

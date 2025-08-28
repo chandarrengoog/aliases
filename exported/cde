@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 #!/usr/bin/env zsh
 source ~/.zshrc
-remote cde
 source ~/.zshrc
+remote cde
 remote cde

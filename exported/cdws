@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
-#!/usr/bin/env zsh
-source ~/.zshrc
 source ~/.zshrc
 remote cdws
+#!/usr/bin/env zsh
+source ~/.zshrc
 remote cdws
