@@ -1,15 +1,3 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdp
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdp
-#!/usr/bin/env zsh
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdp
-source ~/.zshrc
-remote cdp
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdp

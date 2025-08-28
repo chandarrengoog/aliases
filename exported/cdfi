@@ -1,15 +1,3 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdfi
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdfi
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdfi
-#!/usr/bin/env zsh
-#!/usr/bin/env zsh
-source ~/.zshrc
-source ~/.zshrc
-remote cdfi
-remote cdfi

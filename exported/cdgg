@@ -1,15 +1,3 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdgg
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdgg
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdgg
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdgg
-#!/usr/bin/env zsh
-source ~/.zshrc
-remote cdgg
