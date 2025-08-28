@@ -1,3 +1,15 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdpp
+#!/usr/bin/env zsh
+#!/usr/bin/env zsh
+source ~/.zshrc
+source ~/.zshrc
+remote cdpp
+#!/usr/bin/env zsh
+remote cdpp
+source ~/.zshrc
+remote cdpp
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdpp

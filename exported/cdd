@@ -1,3 +1,15 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
 remote cdd
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdd
+#!/usr/bin/env zsh
+source ~/.zshrc
+remote cdd
+#!/usr/bin/env zsh
+source ~/.zshrc
+#!/usr/bin/env zsh
+remote cdd
+source ~/.zshrc
+remote cdd
