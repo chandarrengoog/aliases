@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 source ~/.zshrc
-remote cdwa
+remote cdo
 #!/usr/bin/env zsh
 source ~/.zshrc
-remote cdwa
+remote cdo
